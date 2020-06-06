@@ -1,3 +1,3 @@
 Sample,Location
-sample1,pegasusio_test_cases/case4/MantonBM1_1_dbls.zarr
-sample2,pegasusio_test_cases/case4/MantonBM8_8_dbls.zarr
+sample1,/pegasusio/tests/pegasusio/pegasusio-test-data/case4/MantonBM1_1_dbls.zarr
+sample2,/pegasusio/tests/pegasusio/pegasusio-test-data/case4/MantonBM8_8_dbls.zarr
