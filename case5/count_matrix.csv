@@ -1,0 +1,4 @@
+Sample,Location
+lung1,pegasusio_test_cases/case5/Lung1_rm.batch_dge.txt.gz
+lung2,pegasusio_test_cases/case5/Lung2_rm.batch_dge.txt.gz
+lung3,pegasusio_test_cases/case5/Lung3_rm.batch_dge.txt.gz

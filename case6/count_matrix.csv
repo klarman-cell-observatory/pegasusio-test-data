@@ -1,0 +1,4 @@
+Sample,Location
+health,pegasusio_test_cases/case6/vdj_v1_hs_pbmc2_5gex_protein_filtered_feature_bc_matrix.h5
+health,pegasusio_test_cases/case6/vdj_v1_hs_pbmc2_t_filtered_contig_annotations.csv
+health,pegasusio_test_cases/case6/vdj_v1_hs_pbmc2_b_filtered_contig_annotations.csv

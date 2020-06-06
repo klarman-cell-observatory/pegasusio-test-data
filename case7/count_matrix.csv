@@ -1,0 +1,4 @@
+Sample,Location
+PBMC1,pegasusio_test_cases/case7/PBMC8_30min_patient1_Reference.fcs
+PBMC2,pegasusio_test_cases/case7/PBMC8_30min_patient2_Reference.fcs
+PBMC3,pegasusio_test_cases/case7/PBMC8_30min_patient3_Reference.fcs
