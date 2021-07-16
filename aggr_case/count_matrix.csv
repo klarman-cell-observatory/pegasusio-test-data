@@ -1,4 +1,4 @@
-Sample,Location,Donor,Reference,Source,nUMI,nGene
-MantonBM1_HiSeq_1,pegasusio-test-data/aggr_case/MantonBM1_HiSeq_1/raw_feature_bc_matrix.h5,MantonBM1,GRCh38,bone marrow,100,300
-MantonBM2_HiSeq_1,pegasusio-test-data/aggr_case/MantonBM2_HiSeq_1/raw_feature_bc_matrix.h5,MantonBM2,GRCh38,bone marrow,,200
+Sample,Location,Donor,Reference,Source
+MantonBM1_HiSeq_1,pegasusio-test-data/aggr_case/MantonBM1_HiSeq_1/raw_feature_bc_matrix.h5,MantonBM1,GRCh38,bone marrow
+MantonBM2_HiSeq_1,pegasusio-test-data/aggr_case/MantonBM2_HiSeq_1/raw_feature_bc_matrix.h5,MantonBM2,GRCh38,bone marrow
 MantonBM3_HiSeq_1,pegasusio-test-data/aggr_case/MantonBM3_HiSeq_1/raw_feature_bc_matrix.h5,MantonBM3,GRCh38,bone marrow
